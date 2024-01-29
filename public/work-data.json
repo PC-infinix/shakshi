@@ -1,0 +1,105 @@
+[
+    {
+        "id": "lcml",
+        "title": "STAND ON ABORTION.",
+        "details": {
+            "description": "My research paper delves into the complexities surrounding the abortion debate, exploring ethical, legal, and social dimensions to provide a comprehensive understanding of this contentious issue.",
+            
+            "summary": "Research paper"
+        },
+        "date": "April 2022",
+        "roles": [
+            "Ethical Complexity",
+            "Legal Variability"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Download PDF",
+                "link": "https://www.dropbox.com/scl/fi/xh47j04u8ir90qb5r543n/The-issues-with-taking-a-stand-on-Abortion-SAKSHI-RAWAL.pdf?rlkey=n2djrnfloww4e88wbhg0523ns&dl=0"
+            }
+        ]
+    },
+    {
+        "id": "v1",
+        "title": "GENDER RATIO AT WORKPLACE",
+        "details": {
+            "description": "In my paper, I analyze workplace gender ratios, discussing the merits of achieving equality and examining strategies for promoting inclusivity and diversity in professional environments."
+            ,
+            "summary": "Research paper"
+        },
+        "date": "May 2021",
+        "roles": [
+            "Economic Benefits",
+            "Challenges of Implementation"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Download PDF",
+                "link": "https://www.dropbox.com/scl/fi/0c9pkgag9a38u5kgljkzy/Should-The-Gender-Ratio-in-A-Workplace-Be-Equal-SAKSHI-RAWAL.pdf?rlkey=x9g4v7saivoyxf8dzsw920q50&dl=0"
+            }
+        ]
+    },
+    {
+        "id": "kic",
+        "title": "MEDIA TRAIL AND ITS EFFECT",
+        "details": {
+            "description": "I investigate the impact of media trials on the judicial system in my research paper, shedding light on how sensationalism and public opinion can influence legal outcomes.",
+            "summary": "Research paper"
+        },
+        "date": "July 2019",
+        "roles": [
+            "Influence on Jury Perception",
+            "Balancing Freedom of Press"
+           
+        ],
+        "links": [
+            {
+                "type": "android",
+                "text": "Download PDF",
+                "link": "https://www.dropbox.com/scl/fi/5n756ypraj4e0qy4pqre6/MEDIA-TRAIL-AND-ITS-EFFECT-ON-JUDICIAL-SYSTEM-1.pdf?rlkey=gcgnxwg4d0ttss252jnipv8py&dl=0"
+            }
+        ]
+    },
+    {
+        "id": "grillzzy",
+        "title": "NATIONAL EMERGENCY IN INDIA",
+        "details": {
+            "description": "My paper offers a comprehensive historical analysis of the proclamation of the National Emergency in India in 1975, discussing its constitutional implications and long-lasting effects",
+            "summary": "Research paper"
+        },
+        "date": "Nov 2020",
+        "roles": [
+            "Constitutional Erosion",
+            "Legacy in Indian Politics"
+            
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Download PDF",
+                "link": "https://www.dropbox.com/scl/fi/swd3tfazq5i1zq299bm26/Analytical-Research-on-National-Emergency-in-India-in-1975.pdf?rlkey=dknbhcudnoqwqd0xhdi6b72c5&dl=0"
+            }
+        ]
+    },
+    {
+        "id": "slickscroll",
+        "title": "RIGHTS OF MIGRANTS WORKERS",
+        "details": {
+            "description": "In my research, I highlight the rights of migrant workers, addressing their labor conditions, legal protections, and the importance of ensuring fair treatment and opportunities for this vulnerable group.",
+            "summary": "Personal Project"
+        },
+        "date": "March 2021",
+        "roles": [
+            "Need for International Standards"
+        ],
+        "links": [
+            { 
+                "type": "web",
+                "text": "Download PDF",
+                "link": "https://www.dropbox.com/scl/fi/cr37kib7y9ymlx9omarwk/RIGHTS-OF-MIGRANTS-WORKERS.pdf?rlkey=f5rn5h7u55thqw3v1pvkcbjh1&dl=0"
+            }
+        ]
+    }
+]
