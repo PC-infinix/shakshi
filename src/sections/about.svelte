@@ -126,8 +126,12 @@ function section2IntroAnimations() {
 				<div 
 					class="flex-item" 
 					in:maskSlideIn={{ delay: 600 }}>
-					<img src="assets/imgs/svg-icons/angular.svg" alt="angular">
-					<img src="assets/imgs/svg-icons/svelte.svg" alt="svelte">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
+					<!-- <img src="assets/imgs/svg-icons/star.svg" alt="*"> -->
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
+					
 				</div>
 			</li>
 			<li>
@@ -135,9 +139,11 @@ function section2IntroAnimations() {
 					Should the gender ratio in a workplace be equal?
 				</div>
 				<div class="flex-item" in:maskSlideIn={{ delay: 700 }}>
-					<img src="assets/imgs/svg-icons/flutter.svg" alt="flutter">
-					<img src="assets/imgs/svg-icons/android.svg" alt="native android">
-					<img src="assets/imgs/svg-icons/iOS.svg" alt="native ios">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
 				</div>
 			</li>
 			<li>
@@ -145,10 +151,11 @@ function section2IntroAnimations() {
 					Media trail and its effect on judicial system.
 				</div>
 				<div class="flex-item" in:maskSlideIn={{ delay: 800 }}>
-					<img src="assets/imgs/svg-icons/firebase.svg" alt="firebase">
-					<img src="assets/imgs/svg-icons/nodejs.svg" alt="node js">
-					<img src="assets/imgs/svg-icons/php.svg" alt="php">
-					<img src="assets/imgs/svg-icons/mysql.svg" alt="mySQL">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
+					<!-- <img src="assets/imgs/svg-icons/star.svg" alt="*"> -->
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
 				</div>
 			</li>
 			<li>
@@ -157,8 +164,11 @@ function section2IntroAnimations() {
 				</div>
 				<div class="flex-item" 
 					in:maskSlideIn={{ delay: 900 }}>
-					<img src="assets/imgs/svg-icons/illustrator.svg" alt="adobe illustrator">
-					<img src="assets/imgs/svg-icons/xd.svg" alt="adobe xd">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
+					<img src="assets/imgs/svg-icons/star.svg" alt="*">
 				</div>
 			</li>
 		</ul>

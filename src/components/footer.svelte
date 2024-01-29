@@ -110,8 +110,8 @@ async function introAnimations() {
     </div>
 
     <!-- Right side -->
-	<div class="flex-wrapper decor">
-        <!-- Musab Hassan SVG Signature -->
+	<!-- <div class="flex-wrapper decor">
+        
         <svg id="signature" class="name-signature" x="0px" y="0px" viewBox="0 0 190 136.9" style="stroke: rgb(79, 78, 85);">
             <g>
                 <path
@@ -137,7 +137,7 @@ async function introAnimations() {
             </g>
         </svg>
     </div>
-</div>
+</div> -->
 
 
 

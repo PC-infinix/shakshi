@@ -109,7 +109,7 @@ function introAnimations() {
 <div id="content-container" style="padding-top: 23vh" bind:this={homeContainer}>
 	<div class="content-wrapper">
 		<div class="flex">
-			<div class="flex-wrapper first">
+			<!-- <div class="flex-wrapper first">
 
 				<svg id="signature" class="h-signature" x="0px" y="0px" viewBox="0 0 190 136.9">
 					<g>
@@ -136,7 +136,7 @@ function introAnimations() {
 					</g>
 				</svg>
 
-			</div>
+			</div> -->
 			
 			<div class="flex-wrapper second">
 				<h1 class = "title">
